@@ -1,6 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-mainで変更  
+rebase-practiceで変更  
 コンフリクト用
 
 
